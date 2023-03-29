@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    background-color:blue;
+    height : 200px;
+    width : 200px;
+}
+
+p{
+    color:powderblue;
+}
+
+.one{
+    color:aqua
+}
+
+.two{
+    color:brown
+}
+
+#three{
+    color:blueviolet
+}
