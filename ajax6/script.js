@@ -172,6 +172,7 @@ function getUsers() {
         })
         .then(function (res) {
             res.data.forEach(el => {
+          
                 document.write(`<h1>${el.id}</h1>`)
                 document.write(`<h2>${el.first_name}</h2>`)
                 document.write(`<h2>${el.last_name}</h2>`)
